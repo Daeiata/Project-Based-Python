@@ -36,3 +36,4 @@ project-name/
 - `requirements.txt`: A list of Python packages required for the project. Install these using `pip` before starting the project.
 - `solutions/`: A directory containing one or more possible solutions for the project. Each solution is organized in a separate subdirectory with its own code, documentation, and any necessary additional files. Please note that these solutions are provided as examples, and there may be multiple ways to complete the project. Feel free to explore and create your own solutions!
 - `additional-files`: Any additional files required for the project, such as data files, images, or configuration files.
+# Project-Based-Python
